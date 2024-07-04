@@ -15,7 +15,7 @@
 
 - 👨‍💻 Access all of my projects at [https://github.com/Kishan-Prakash](https://github.com/Kishan-Prakash)
 
-- 📫 How to reach me **kishanprakashpj@gmail.com**
+- 📫 Contact me at **kishanprakashpj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
