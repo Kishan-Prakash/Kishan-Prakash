@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kishan Prakash</h1>
-<h3 align="center">A passionate Engineer interested in Data Science</h3>
+<h3 align="center">A passionate Student of Chemical Engineer interested in Data Science</h3>
 
 <img align="right" alt="Analytics" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan-prakash&label=Profile%20views&color=0e75b6&style=flat" alt="kishan-prakash" /> </p>
 
-- 🔭 I’m currently working on a **Power Bi Project**
+- 🔭 I’m currently working on a **Logistic Regression Project**
 
 - 🌱 I’m currently learning **R Programing and Machine Learning**
 
