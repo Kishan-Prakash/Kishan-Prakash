@@ -24,9 +24,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-    </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a> 
@@ -44,9 +41,18 @@
     </a> 
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-       </a> 
+    </a> 
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="40" height="40"/> 
+        <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="40" height="40"/>
+    </a> 
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
+    </a> 
+    <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Tableau" width="40" height="40"/>
+    </a> 
+    <a href="https://colab.google/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Tableau" width="40" height="40"/>
     </a> 
 </p>
 
